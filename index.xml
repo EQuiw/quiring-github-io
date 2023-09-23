@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erwin Quiring</title>
+    <link>https://www.erwinquiring.com/</link>
+      <atom:link href="https://www.erwinquiring.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erwin Quiring</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.erwinquiring.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Erwin Quiring</title>
+      <link>https://www.erwinquiring.com/</link>
+    </image>
+    
+    <item>
+      <title>No more Reviewer #2: Subverting Automatic Paper-Reviewer   Assignment using Adversarial Learning</title>
+      <link>https://www.erwinquiring.com/publication/eis-qui-moe-23/</link>
+      <pubDate>Fri, 23 Jun 2023 19:48:22 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/eis-qui-moe-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Detection of Image-Scaling Attacks in Machine Learning</title>
+      <link>https://www.erwinquiring.com/publication/qui-mue-rie-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-mue-rie-23/</guid>
+      <description>&lt;p&gt;To appear. Link to PDF soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dos and Don&#39;ts of Machine Learning in Computer Security</title>
+      <link>https://www.erwinquiring.com/publication/arp-qui-pen-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/arp-qui-pen-22/</guid>
+      <description>&lt;p&gt;Distinguished Paper Award&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Misleading Deep-Fake Detection with GAN  Fingerprints</title>
+      <link>https://www.erwinquiring.com/publication/wes-rie-arp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/wes-rie-arp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Security of Machine Learning Beyond the  Feature Space</title>
+      <link>https://www.erwinquiring.com/publication/qui-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning</title>
+      <link>https://www.erwinquiring.com/publication/qui-kle-arp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-kle-arp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Against All Odds: Winning the Defense Challenge in an  Evasion Competition with Diversification</title>
+      <link>https://www.erwinquiring.com/publication/qui-pir-rei-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-pir-rei-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backdooring and Poisoning Neural Networks with  Image-Scaling Attacks</title>
+      <link>https://www.erwinquiring.com/publication/qui-rie-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-rie-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misleading Authorship Attribution of Source Code using  Adversarial Learning</title>
+      <link>https://www.erwinquiring.com/publication/qui-mai-rie-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-mai-rie-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Security and Applicability of Fragile Camera  Fingerprints</title>
+      <link>https://www.erwinquiring.com/publication/qui-kir-rie-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-kir-rie-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning Against Digital Watermarking</title>
+      <link>https://www.erwinquiring.com/publication/qui-rie-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-rie-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forgotten Siblings: Unifying Attacks on Machine Learning and Digital Watermarking</title>
+      <link>https://www.erwinquiring.com/publication/qui-arp-rie-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-arp-rie-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Enhanced Fraud Detection with Bloom Filters</title>
+      <link>https://www.erwinquiring.com/publication/arp-qui-kru-dra-rie-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/arp-qui-kru-dra-rie-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Threats through Ultrasonic Side Channels on Mobile Devices</title>
+      <link>https://www.erwinquiring.com/publication/arp-qui-wre-rie-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/arp-qui-wre-rie-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat in the Mobile: A Study on Ultrasonic Device Tracking</title>
+      <link>https://www.erwinquiring.com/publication/arp-qui-wre-rie-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/arp-qui-wre-rie-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fragile Sensor Fingerprint Camera Identification</title>
+      <link>https://www.erwinquiring.com/publication/quiring-kirchner-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/quiring-kirchner-2015/</guid>
+      <description>&lt;p&gt;Best Student Paper Award&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laiengerechte Erzeugung von 3D-Animationen am Beispiel  von textuellen  Unfallbeschreibungen</title>
+      <link>https://www.erwinquiring.com/publication/car-qui-haa-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/car-qui-haa-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Combination of Randomized Thresholds and  Non-Parametric Boundaries to Protect Digital Watermarks against  Sensitivity Attacks</title>
+      <link>https://www.erwinquiring.com/publication/qui-sch-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/publication/qui-sch-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.erwinquiring.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.erwinquiring.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
